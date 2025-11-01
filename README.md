@@ -118,13 +118,13 @@ Tenho grande interesse em seguir carreira como desenvolvedor Full-Stack, criando
 ### 📫 Entre em contato
 
 <p>
-    <a href="mailto:henrique.poltronieri2008@gmail.com" target="_blank">
+    <a href="mailto:ap4321316@gmail.com" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&   labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
     </a>
-    <a href="https://www.linkedin.com/in/henrique-poltronieri/" target="_blank">
+    <a href="https://www.linkedin.com/in/alvaro-pires-de-souza-786aa4338/" target="_blank">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
     </a>
-    <a href="https://github.com/HenriquePoltronieri" target="_blank">
+    <a href="https://github.com/Alvaro3105" target="_blank">
         <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="github logo"  />
     </a>
 </p>
