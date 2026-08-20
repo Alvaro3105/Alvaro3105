@@ -50,11 +50,6 @@ API REST em **Python + Flask + SQLAlchemy + SQLite** para gerenciamento de usuá
 
 🔗 [Ver repositório](https://github.com/Alvaro3105/Heldesk)
 
-### 🧠 ExplAIner
-Sistema web com **frontend HTML/CSS/JavaScript** e **backend Flask**, com API para gerenciamento de alunos, temas, desafios, questões e ranking.
-
-🔗 [Ver repositório](https://github.com/Alvaro3105/Explainer)
-
 ### 🛒 Projeto CRUD Varejo
 Aplicação desktop em **C# com Windows Forms**, criada para gerenciamento de clientes e fornecedores com operações CRUD.
 
