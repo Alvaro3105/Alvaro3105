@@ -1,137 +1,129 @@
-# 👩🏻‍💻 Álvaro Pires de Souza
+# 👨‍💻 Álvaro Pires de Souza
 
-**`Desenvolvedor FullStack`**
+**Estudante Técnico em TI | Desenvolvimento de Software • Banco de Dados • Tecnologia**
 
-Olá👋! Meu nome é Alvaro Pires de Souza, tenho 17 anos e sou estudante do 3º ano do Ensino Médio Técnico em PC no Colégio Cotemig, com conclusão prevista para dezembro de 2026.
+Olá! Sou Álvaro Pires de Souza, estudante do 3º ano do Ensino Médio Técnico em TI no COTEMIG, com conclusão prevista para dezembro de 2026.
 
-Sou uma pessoa criativa, com excelentes habilidades de comunicação e muito boas habilidades de trabalho em equipe. Atualmente, estou aprimorando minhas habilidades em programação e desenvolvimento de software, com conhecimentos em HTML, CSS, JavaScript, C#, MySQL,PHP,Python,Pacote Office, e Figma.
+Durante minha formação, venho desenvolvendo projetos envolvendo desenvolvimento web, APIs, banco de dados e arquitetura de software, utilizando tecnologias como Python, Flask, PHP, Laravel, JavaScript, SQL e MySQL.
 
-Tenho grande interesse em seguir carreira como desenvolvedor Full-Stack, criando soluções digitais que unam praticidade, eficiência e inovação, sempre buscando aprender continuamente e colaborar em projetos que envolvam tecnologia e trabalho em equipe.
+Também estudo fundamentos de redes, Linux, hardware, segurança da informação e versionamento de código com Git e GitHub.
 
- ---
-
-
-
-
-
-
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-/>
-<img 
-    align="left" 
-    alt="MySql" 
-    title="MySql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Figma" 
-    title="Figma"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-/> 
-<br/><br/>
+Atualmente, busco minha primeira oportunidade profissional na área de Tecnologia da Informação, onde possa aplicar meus conhecimentos, aprender com profissionais mais experientes e continuar evoluindo tecnicamente.
 
 ---
 
-### 📊 Estatísticas
+## 🚀 Tecnologias
+
+### Linguagens
 
 <p>
-    <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="200" 
-        style="padding-right: 10px;" 
-        src="https://github-readme-stats.vercel.app/api?username=Alvaro3105&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    />
-    <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro3105&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
-    />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="36" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="36" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="36" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="36" title="CSS3"/>
 </p>
-<br/>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvaro3105/alvaro3105/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alvaro3105/alvaro310/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alvaro3105/alvaro3105/output/github-contribution-grid-snake.svg">
-</picture>
+### Backend e Banco de Dados
 
-<br/>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="36" title="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="36" title="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="36" title="MySQL"/>
+</p>
+
+Também tenho experiência acadêmica com:
+
+* APIs REST
+* Arquitetura MVC
+* Programação Orientada a Objetos
+* SQL
+* CRUD
+* Persistência de dados
+
+### Ferramentas e Fundamentos
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="36" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="36" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="36" title="Figma"/>
+</p>
+
+Além disso, estudo fundamentos de:
+
+* Redes de computadores
+* Segurança da Informação
+* Hardware
+* Cisco Packet Tracer
 
 ---
 
-### 📫 Entre em contato
+## 📌 Projetos em destaque
+
+Aqui estão alguns projetos que representam melhor minha evolução na área de TI:
+
+### Helpdesk API
+
+API para gerenciamento de usuários e chamados, desenvolvida com Python e Flask, aplicando arquitetura em camadas com Controllers, Services, Repositories e Models.
+
+### Projeto CRUD em Laravel
+
+Projeto utilizando PHP, Laravel, MySQL e arquitetura MVC, com operações de cadastro, consulta, atualização e exclusão.
+
+### CRUD em PHP com PDO
+
+Aplicação utilizando PHP, PDO e banco de dados para praticar persistência de dados e operações CRUD.
+
+### Projeto de Segurança
+
+Projeto acadêmico voltado para autenticação, autorização e conceitos de segurança em aplicações.
+
+> Mais projetos estão disponíveis nos meus repositórios.
+
+---
+
+## 🎓 Formação
+
+**COTEMIG — Colégio e Faculdade**
+Ensino Médio Técnico em TI
+2024 — 2026
+
+---
+
+## 📚 Cursos e Certificações
+
+* Introdução à IA Moderna — Cisco Networking Academy
+* Fundamentos do Hardware do Computador — Cisco Networking Academy
+* Introdução à Cibersegurança — Cisco Networking Academy
+* Cisco Packet Tracer — Cisco Networking Academy
+* Conscientização Digital — Cisco Networking Academy
+* Crie um Site Simples usando HTML, CSS e JavaScript — Fundação Bradesco
+
+---
+
+## 🌐 Eventos e Comunidade
+
+* Google I/O Extended — Belo Horizonte
+* Minas Summit
+* Code Club / World Creativity Day
+
+---
+
+## 📊 GitHub
 
 <p>
-    <a href="mailto:ap4321316@gmail.com" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&   labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-    </a>
-    <a href="https://www.linkedin.com/in/alvaro-pires-de-souza-786aa4338/" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-    </a>
-    <a href="https://github.com/Alvaro3105" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="github logo"  />
-    </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alvaro3105&show_icons=true&theme=tokyonight&locale=pt-br" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro3105&theme=tokyonight&layout=compact&langs_count=6" height="170"/>
 </p>
 
-<br/>
+---
 
-<p>
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4801ff&height=125&section=footer"/>
-</p>
+## 📫 Contato
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Álvaro%20Pires-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/alvaro-pires-de-souza/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Alvaro3105-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Alvaro3105)
+
+[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ap4321316@gmail.com)
