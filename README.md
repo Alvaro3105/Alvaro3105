@@ -2,17 +2,19 @@
 
 **Estudante Técnico em TI | Desenvolvimento de Software • Banco de Dados • Tecnologia**
 
-Olá! Sou estudante do 3º ano do Ensino Médio Técnico em TI no **COTEMIG**, com conclusão prevista para dezembro de 2026.
+Sou estudante do 3º ano do Ensino Médio Técnico em TI no **COTEMIG**, com conclusão prevista para dezembro de 2026.
 
-Durante minha formação, venho desenvolvendo projetos com **Python, Flask, PHP, Laravel, C#, JavaScript, SQL e MySQL**, além de estudar arquitetura MVC, APIs REST, programação orientada a objetos, Git/GitHub, Linux, redes, hardware e segurança da informação.
+Durante minha formação, venho desenvolvendo projetos com **Python, Flask, PHP, Laravel, C#, JavaScript, SQL e MySQL**, além de estudar APIs REST, arquitetura MVC/em camadas, programação orientada a objetos, Git/GitHub, Linux, redes, hardware e segurança da informação.
 
-Atualmente, busco minha **primeira oportunidade profissional em Tecnologia da Informação**, com interesse em desenvolvimento de software e também aberto a outras áreas de TI.
+Atualmente, busco minha **primeira oportunidade profissional em Tecnologia da Informação**, com interesse em desenvolvimento de software e aberto a outras áreas de TI.
+
+🌐 **Portfólio:** https://alvaro3105.github.io/Portfolio/
 
 ---
 
 ## 🚀 Tecnologias
 
-### Linguagens
+### Linguagens e Web
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" title="Python" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="36" title="PHP" alt="PHP" />
@@ -29,7 +31,7 @@ Atualmente, busco minha **primeira oportunidade profissional em Tecnologia da In
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="36" title="MySQL" alt="MySQL" />
 </p>
 
-**Também estudo/aplico:** APIs REST • MVC • POO • CRUD • SQL • persistência de dados
+**Também estudo/aplico:** APIs REST • MVC • POO • CRUD • SQL • persistência de dados • arquitetura em camadas
 
 ### Ferramentas e Fundamentos de TI
 <p>
@@ -45,25 +47,30 @@ Atualmente, busco minha **primeira oportunidade profissional em Tecnologia da In
 
 ## 📌 Projetos em destaque
 
+### 🌐 Portfólio Profissional
+Site pessoal desenvolvido em **HTML5, CSS3 e JavaScript Vanilla**, com layout responsivo, versão PT/EN, acessibilidade, SEO, certificações, currículo e publicação no GitHub Pages.
+
+🔗 [Acessar portfólio](https://alvaro3105.github.io/Portfolio/) • [Ver repositório](https://github.com/Alvaro3105/Portfolio)
+
 ### 🛠️ Helpdesk API
-API REST em **Python + Flask + SQLAlchemy + SQLite** para gerenciamento de usuários e chamados. O projeto usa arquitetura em camadas com Controllers, Services, Repositories e Models, além de regras de negócio e transições de status.
+API REST em **Python + Flask + SQLAlchemy** para gerenciamento de usuários e chamados, utilizando arquitetura em camadas com Controllers, Services, Repositories e Models, regras de negócio e testes automatizados.
 
 🔗 [Ver repositório](https://github.com/Alvaro3105/Heldesk)
 
 ### 🛒 Projeto CRUD Varejo
-Aplicação desktop em **C# com Windows Forms**, criada para gerenciamento de clientes e fornecedores com operações CRUD.
+Aplicação desktop em **C# com Windows Forms** para gerenciamento de clientes e fornecedores por meio de operações CRUD.
 
 🔗 [Ver repositório](https://github.com/Alvaro3105/projeto-final-crud-varejo)
 
-### 🚗 CRUD de Veículos com PHP & PDO
-Aplicação web em **PHP + MySQL + PDO**, com CRUD de veículos, prepared statements e tratamento de saída para reforçar boas práticas de segurança.
-
-🔗 [Ver repositório](https://github.com/Alvaro3105/CRUD-em-PHP-PDO)
-
-### 🌐 API REST em Laravel
-Projeto acadêmico em **Laravel** com CRUD e prática de arquitetura MVC, rotas, controllers, models e persistência de dados.
+### 🌐 API REST de Questões
+Projeto acadêmico em **PHP + Laravel + MySQL**, com API REST, rotas CRUD e prática de arquitetura MVC.
 
 🔗 [Ver repositório](https://github.com/Alvaro3105/atividade_integrada)
+
+### 🚗 CRUD de Veículos com PHP & PDO
+Aplicação em **PHP + PDO + MySQL** para operações CRUD de veículos.
+
+🔗 [Ver repositório](https://github.com/Alvaro3105/CRUD-em-PHP-PDO)
 
 ---
 
@@ -71,18 +78,20 @@ Projeto acadêmico em **Laravel** com CRUD e prática de arquitetura MVC, rotas,
 
 **COTEMIG — Colégio e Faculdade**  
 Ensino Médio Técnico em TI  
-**2024 — 2026**
+**2024 — 2026** • conclusão prevista para dezembro de 2026
 
 ---
 
 ## 📚 Cursos e Certificações
 
+- Introdução à Cibersegurança — Cisco Networking Academy
 - Introdução à IA Moderna — Cisco Networking Academy
 - Fundamentos do Hardware do Computador — Cisco Networking Academy
-- Introdução à Cibersegurança — Cisco Networking Academy
 - Cisco Packet Tracer — Cisco Networking Academy
 - Conscientização Digital — Cisco Networking Academy
+- Using Computer and Mobile Devices — Cisco Networking Academy
 - Crie um Site Simples usando HTML, CSS e JavaScript — Fundação Bradesco
+- Coletivo Coca-Cola Jovem — desenvolvimento profissional
 
 ---
 
@@ -90,7 +99,7 @@ Ensino Médio Técnico em TI
 
 - Google I/O Extended — Belo Horizonte
 - Minas Summit
-- Code Club / World Creativity Day — trabalho voluntário
+- Code Club / World Creativity Day — ações voluntárias
 
 ---
 
@@ -105,6 +114,7 @@ Ensino Médio Técnico em TI
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Álvaro%20Pires-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-pires-de-souza/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Acessar-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alvaro3105.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%C3%81lvaro%20Pires-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-pires-de-souza/)
 [![GitHub](https://img.shields.io/badge/GitHub-Alvaro3105-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alvaro3105)
 [![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ap4321316@gmail.com)
