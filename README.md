@@ -6,13 +6,42 @@ Sou estudante do 3º ano do Ensino Médio Técnico em TI no **COTEMIG**, com con
 
 Durante minha formação, venho desenvolvendo projetos com **Python, Flask, PHP, Laravel, C#, JavaScript, SQL e MySQL**, além de estudar APIs REST, arquitetura MVC/em camadas, programação orientada a objetos, Git/GitHub, Linux, redes, hardware e segurança da informação.
 
-Atualmente, busco minha **primeira oportunidade profissional em Tecnologia da Informação**, com interesse em desenvolvimento de software e aberto a outras áreas de TI.
+Atualmente, busco minha **primeira oportunidade profissional em Tecnologia da Informação**, com interesse em desenvolvimento de software e também aberto a outras áreas de TI.
 
 🌐 **Portfólio:** https://alvaro3105.github.io/Portfolio/
 
 ---
 
-## 🚀 Tecnologias
+## 📌 Projetos em destaque
+
+### 🌐 Portfólio Profissional
+Site pessoal em **HTML5, CSS3 e JavaScript Vanilla**, com layout responsivo, versão PT/EN, acessibilidade, SEO, certificações, currículo e publicação no GitHub Pages.
+
+🔗 [Acessar portfólio](https://alvaro3105.github.io/Portfolio/) • [Ver repositório](https://github.com/Alvaro3105/Portfolio)
+
+### 🛠️ Helpdesk API
+API REST em **Python + Flask + SQLAlchemy** para gerenciamento de usuários e chamados, utilizando arquitetura em camadas com Controllers, Services, Repositories e Models, regras de negócio e testes automatizados.
+
+🔗 [Ver repositório](https://github.com/Alvaro3105/Heldesk)
+
+### 🛒 Projeto CRUD Varejo
+Aplicação desktop em **C# + Windows Forms + MySQL** para gerenciamento de clientes e fornecedores por meio de operações CRUD.
+
+🔗 [Ver repositório](https://github.com/Alvaro3105/projeto-final-crud-varejo)
+
+### 🌐 API REST de Questões
+Projeto acadêmico em **PHP + Laravel + MySQL**, com API REST, rotas CRUD e prática de arquitetura MVC.
+
+🔗 [Ver repositório](https://github.com/Alvaro3105/atividade_integrada)
+
+### 🚗 CRUD de Veículos com PHP & PDO
+Aplicação em **PHP + PDO + MySQL** para operações CRUD de veículos.
+
+🔗 [Ver repositório](https://github.com/Alvaro3105/CRUD-em-PHP-PDO)
+
+---
+
+## 🚀 Tecnologias e fundamentos
 
 ### Linguagens e Web
 <p>
@@ -33,7 +62,7 @@ Atualmente, busco minha **primeira oportunidade profissional em Tecnologia da In
 
 **Também estudo/aplico:** APIs REST • MVC • POO • CRUD • SQL • persistência de dados • arquitetura em camadas
 
-### Ferramentas e Fundamentos de TI
+### Ferramentas e fundamentos de TI
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" title="Git" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="36" title="GitHub" alt="GitHub" />
@@ -45,35 +74,6 @@ Atualmente, busco minha **primeira oportunidade profissional em Tecnologia da In
 
 ---
 
-## 📌 Projetos em destaque
-
-### 🌐 Portfólio Profissional
-Site pessoal desenvolvido em **HTML5, CSS3 e JavaScript Vanilla**, com layout responsivo, versão PT/EN, acessibilidade, SEO, certificações, currículo e publicação no GitHub Pages.
-
-🔗 [Acessar portfólio](https://alvaro3105.github.io/Portfolio/) • [Ver repositório](https://github.com/Alvaro3105/Portfolio)
-
-### 🛠️ Helpdesk API
-API REST em **Python + Flask + SQLAlchemy** para gerenciamento de usuários e chamados, utilizando arquitetura em camadas com Controllers, Services, Repositories e Models, regras de negócio e testes automatizados.
-
-🔗 [Ver repositório](https://github.com/Alvaro3105/Heldesk)
-
-### 🛒 Projeto CRUD Varejo
-Aplicação desktop em **C# com Windows Forms** para gerenciamento de clientes e fornecedores por meio de operações CRUD.
-
-🔗 [Ver repositório](https://github.com/Alvaro3105/projeto-final-crud-varejo)
-
-### 🌐 API REST de Questões
-Projeto acadêmico em **PHP + Laravel + MySQL**, com API REST, rotas CRUD e prática de arquitetura MVC.
-
-🔗 [Ver repositório](https://github.com/Alvaro3105/atividade_integrada)
-
-### 🚗 CRUD de Veículos com PHP & PDO
-Aplicação em **PHP + PDO + MySQL** para operações CRUD de veículos.
-
-🔗 [Ver repositório](https://github.com/Alvaro3105/CRUD-em-PHP-PDO)
-
----
-
 ## 🎓 Formação
 
 **COTEMIG — Colégio e Faculdade**  
@@ -82,33 +82,22 @@ Ensino Médio Técnico em TI
 
 ---
 
-## 📚 Cursos e Certificações
+## 📚 Cursos e certificações
 
 - Introdução à Cibersegurança — Cisco Networking Academy
 - Introdução à IA Moderna — Cisco Networking Academy
 - Fundamentos do Hardware do Computador — Cisco Networking Academy
 - Cisco Packet Tracer — Cisco Networking Academy
-- Conscientização Digital — Cisco Networking Academy
-- Using Computer and Mobile Devices — Cisco Networking Academy
 - Crie um Site Simples usando HTML, CSS e JavaScript — Fundação Bradesco
 - Coletivo Coca-Cola Jovem — desenvolvimento profissional
 
 ---
 
-## 🌐 Eventos e Comunidade
+## 🌐 Eventos e comunidade
 
 - Google I/O Extended — Belo Horizonte
 - Minas Summit
 - Code Club / World Creativity Day — ações voluntárias
-
----
-
-## 📊 GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Alvaro3105&show_icons=true&theme=tokyonight&locale=pt-br" height="165" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro3105&theme=tokyonight&layout=compact&langs_count=6" height="165" alt="Linguagens mais usadas" />
-</p>
 
 ---
 
