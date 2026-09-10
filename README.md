@@ -1,12 +1,12 @@
 # 👨‍💻 Álvaro Pires de Souza
 
-**Estudante Técnico em TI | Desenvolvimento de Software • Banco de Dados • Tecnologia**
+**Estudante Técnico em TI | Back-end • Python • Banco de Dados**
 
-Sou estudante do 3º ano do Ensino Médio Técnico em TI no **COTEMIG**, com conclusão prevista para dezembro de 2026.
+Sou estudante do **3º ano do Ensino Médio Técnico em TI no COTEMIG**, com conclusão prevista para dezembro de 2026.
 
 Durante minha formação, venho desenvolvendo projetos com **Python, Flask, PHP, Laravel, C#, JavaScript, SQL e MySQL**, além de estudar APIs REST, arquitetura MVC/em camadas, programação orientada a objetos, Git/GitHub, Linux, redes, hardware e segurança da informação.
 
-Atualmente, busco minha **primeira oportunidade profissional em Tecnologia da Informação**, com interesse em desenvolvimento de software e também aberto a outras áreas de TI.
+Atualmente, busco minha **primeira oportunidade profissional em Tecnologia da Informação**, com foco em desenvolvimento de software e back-end. Também estou construindo minha base para aprofundar meus estudos em **Inteligência Artificial e análise de dados**.
 
 🌐 **Portfólio:** https://alvaro3105.github.io/Portfolio/
 
@@ -14,18 +14,13 @@ Atualmente, busco minha **primeira oportunidade profissional em Tecnologia da In
 
 ## 📌 Projetos em destaque
 
-### 🌐 Portfólio Profissional
-Site pessoal em **HTML5, CSS3 e JavaScript Vanilla**, com layout responsivo, versão PT/EN, acessibilidade, SEO, certificações, currículo e publicação no GitHub Pages.
-
-🔗 [Acessar portfólio](https://alvaro3105.github.io/Portfolio/) • [Ver repositório](https://github.com/Alvaro3105/Portfolio)
-
 ### 🛠️ Helpdesk API
 API REST em **Python + Flask + SQLAlchemy** para gerenciamento de usuários e chamados, utilizando arquitetura em camadas com Controllers, Services, Repositories e Models, regras de negócio e testes automatizados.
 
-🔗 [Ver repositório](https://github.com/Alvaro3105/Heldesk)
+🔗 [Ver repositório](https://github.com/Alvaro3105/Helpdesk)
 
 ### 🛒 Projeto CRUD Varejo
-Aplicação desktop em **C# + Windows Forms + MySQL** para gerenciamento de clientes e fornecedores por meio de operações CRUD.
+Aplicação desktop acadêmica em **C# + Windows Forms + MySQL** para gerenciamento de clientes e fornecedores por meio de operações CRUD.
 
 🔗 [Ver repositório](https://github.com/Alvaro3105/projeto-final-crud-varejo)
 
@@ -35,9 +30,14 @@ Projeto acadêmico em **PHP + Laravel + MySQL**, com API REST, rotas CRUD e prá
 🔗 [Ver repositório](https://github.com/Alvaro3105/atividade_integrada)
 
 ### 🚗 CRUD de Veículos com PHP & PDO
-Aplicação em **PHP + PDO + MySQL** para operações CRUD de veículos.
+Aplicação acadêmica em **PHP + PDO + MySQL** para operações CRUD de veículos.
 
 🔗 [Ver repositório](https://github.com/Alvaro3105/CRUD-em-PHP-PDO)
+
+### 🌐 Portfólio Profissional
+Site pessoal em **HTML5, CSS3 e JavaScript**, publicado no GitHub Pages para apresentar projetos, formação, experiências e contatos profissionais.
+
+🔗 [Acessar portfólio](https://alvaro3105.github.io/Portfolio/) • [Ver repositório](https://github.com/Alvaro3105/Portfolio)
 
 ---
 
@@ -53,7 +53,7 @@ Aplicação em **PHP + PDO + MySQL** para operações CRUD de veículos.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="36" title="CSS3" alt="CSS3" />
 </p>
 
-### Backend e Banco de Dados
+### Back-end e Banco de Dados
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="36" title="Flask" alt="Flask" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="36" title="Laravel" alt="Laravel" />
@@ -67,7 +67,6 @@ Aplicação em **PHP + PDO + MySQL** para operações CRUD de veículos.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" title="Git" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="36" title="GitHub" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="36" title="Linux" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="36" title="Figma" alt="Figma" />
 </p>
 
 **Fundamentos:** Redes de computadores • Hardware • Segurança da Informação • Cisco Packet Tracer
@@ -84,12 +83,9 @@ Ensino Médio Técnico em TI
 
 ## 📚 Cursos e certificações
 
-- Introdução à Cibersegurança — Cisco Networking Academy
 - Introdução à IA Moderna — Cisco Networking Academy
 - Fundamentos do Hardware do Computador — Cisco Networking Academy
-- Cisco Packet Tracer — Cisco Networking Academy
 - Crie um Site Simples usando HTML, CSS e JavaScript — Fundação Bradesco
-- Coletivo Coca-Cola Jovem — desenvolvimento profissional
 
 ---
 
@@ -106,4 +102,3 @@ Ensino Médio Técnico em TI
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Acessar-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alvaro3105.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%C3%81lvaro%20Pires-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-pires-de-souza/)
 [![GitHub](https://img.shields.io/badge/GitHub-Alvaro3105-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alvaro3105)
-[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ap4321316@gmail.com)
