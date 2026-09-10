@@ -19,18 +19,25 @@ API REST em **Python + Flask + SQLAlchemy** para gerenciamento de usuários e ch
 
 🔗 [Ver repositório](https://github.com/Alvaro3105/Helpdesk)
 
+### 🎓 ExplAIner — Projeto em equipe
+Plataforma acadêmica de **gamificação educacional** desenvolvida em grupo com **Python, Flask, SQLAlchemy, MySQL/SQLite, HTML, CSS e JavaScript**. O projeto trabalha com alunos, temas, desafios, questões, verificação de respostas e ranking, utilizando separação entre Controllers, Services, Repositories e Models.
+
+A proposta futura do produto inclui geração de questões com Inteligência Artificial; essa integração ainda não é apresentada como funcionalidade implementada na versão atual do código.
+
+🔗 [Minha cópia do projeto](https://github.com/Alvaro3105/Explainer) • [Repositório de referência da equipe](https://github.com/lucasf0ntana/ExplAInerRepositorio)
+
 ### 🛒 Projeto CRUD Varejo
-Aplicação desktop acadêmica em **C# + Windows Forms + MySQL** para gerenciamento de clientes e fornecedores por meio de operações CRUD.
+Aplicação desktop acadêmica em **C# + Windows Forms + MySQL** para gerenciamento de clientes e fornecedores por meio de operações CRUD, com consultas parametrizadas e script para recriação do banco.
 
 🔗 [Ver repositório](https://github.com/Alvaro3105/projeto-final-crud-varejo)
 
 ### 🌐 API REST de Questões
-Projeto acadêmico em **PHP + Laravel + MySQL**, com API REST, rotas CRUD e prática de arquitetura MVC.
+Projeto acadêmico em **PHP + Laravel**, com API REST, validação, Eloquent, migrations, relacionamento com temas e testes de integração do fluxo CRUD.
 
 🔗 [Ver repositório](https://github.com/Alvaro3105/atividade_integrada)
 
 ### 🚗 CRUD de Veículos com PHP & PDO
-Aplicação acadêmica em **PHP + PDO + MySQL** para operações CRUD de veículos.
+Aplicação acadêmica em **PHP + PDO + MySQL** para operações CRUD de veículos, com prepared statements, validação no backend e exclusão por POST.
 
 🔗 [Ver repositório](https://github.com/Alvaro3105/CRUD-em-PHP-PDO)
 
